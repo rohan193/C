@@ -2,11 +2,11 @@
 
 - [Link](https://www.tutorialspoint.com/cprogramming/index.htm)
 
-## Initial checks
+### Initial checks
 
 - Run gcc -v to check the version of c compiler installed(on linux)
 
-## Hello World program
+### Hello World program
 
 ```C
 #include <stdio.h>
@@ -30,7 +30,7 @@ Hello World!
 */
 ```
 
-## Tokens in C
+### Tokens in C
 
 - A C program consists of various tokens and a token is either a keyword, an identifier, a constant, a string literal, or a symbol. For example, the following C statement consists of five tokens
 
@@ -47,7 +47,7 @@ printf
 ;
 ```
 
-# Semicolons
+### Semicolons
 
 - In a C program, the semicolon is a statement terminator
 
